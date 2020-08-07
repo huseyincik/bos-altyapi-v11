@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "discord.js": "^11.6.4",
+    "moment": "^2.27.0",
+    "fs": "^0.0.2"
+  },
+  "engines": {
+    "node": "12.x"
+  }
+}
