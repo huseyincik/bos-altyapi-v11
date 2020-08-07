@@ -1,3 +1,4 @@
+# Discord Bot V11 Temel Altyapı
 Discord'daki botlarınız için hazırlanmış temel bir altyapı.
 
 # Kurulum
